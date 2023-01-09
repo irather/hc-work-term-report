@@ -25,7 +25,7 @@ function Navbar() {
           </button>
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-              <a className="nav-link" aria-current="page" href="#introduction">
+              <a className="nav-link" aria-current="page" href="#intro">
                 Introduction
               </a>
             </div>
