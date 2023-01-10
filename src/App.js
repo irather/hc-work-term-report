@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Intro from "./components/Intro";
 import EmployerInfo from "./components/EmployerInfo";
 import Goals from "./components/Goals";
+import JobDesc from "./components/JobDesc";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -19,6 +20,7 @@ function App() {
               <Intro />
               <EmployerInfo />
               <Goals />
+              <JobDesc />
             </div>
           </section>
         </main>
