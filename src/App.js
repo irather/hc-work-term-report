@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import Intro from "./components/Intro";
 import EmployerInfo from "./components/EmployerInfo";
+import Goals from "./components/Goals";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -17,6 +18,7 @@ function App() {
             <div>
               <Intro />
               <EmployerInfo />
+              <Goals />
             </div>
           </section>
         </main>

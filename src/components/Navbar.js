@@ -31,6 +31,9 @@ function Navbar() {
               <a className="nav-link" href="#employerInfo">
                 Employer Info
               </a>
+              <a className="nav-link" href="#goals">
+                Goals
+              </a>
             </div>
           </div>
         </div>
