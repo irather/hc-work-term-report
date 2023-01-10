@@ -2,11 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div
-      className="navbar-container"
-      id="#navbar"
-      style={{ position: "sticky", top: "0", left: "0" }}
-    >
+    <div className="navbar-container" id="#navbar">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="#header">
