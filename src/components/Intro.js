@@ -1,8 +1,9 @@
 import React from "react";
+import styles from "../styles/styles.module.css";
 
 function Intro() {
   return (
-    <div id="intro">
+    <div id="intro" className={styles.section}>
       <h2>Introduction</h2>
       <p>
         Hello! My name is Ibrahim Rather and this is a website I built to

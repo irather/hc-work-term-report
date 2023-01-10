@@ -1,8 +1,9 @@
 import React from "react";
+import styles from "../styles/styles.module.css";
 
 function EmployerInfo() {
   return (
-    <div id="employerInfo">
+    <div id="employerInfo" className={styles.section}>
       <h2>Employer Information</h2>
       <p>
         LINCS is a digital humanities research company located at the University

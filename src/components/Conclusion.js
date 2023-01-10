@@ -1,8 +1,9 @@
 import React from "react";
+import styles from "../styles/styles.module.css";
 
 function Conclusion() {
   return (
-    <div id="conclusion">
+    <div id="conclusion" className={styles.section}>
       <h2>Conclusion</h2>
       <p>
         Overall, this co-op was a very valuable experience for me. I learned so

@@ -1,8 +1,9 @@
 import React from "react";
+import styles from "../styles/styles.module.css";
 
 function JobDesc() {
   return (
-    <div id="jobDesc">
+    <div id="jobDesc" className={styles.section}>
       <h2>Job Description</h2>
       <p>
         I had one overall project to work on during my time at LINCS, and that

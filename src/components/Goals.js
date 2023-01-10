@@ -1,8 +1,9 @@
 import React from "react";
+import styles from "../styles/styles.module.css";
 
 function Goals() {
   return (
-    <div id="goals">
+    <div id="goals" className={styles.section}>
       <h2>Goals</h2>
       <p>
         I had 3 learning goals during this co-op. The first main goal was to try
