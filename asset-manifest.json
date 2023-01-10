@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lincs-work-term-report/static/css/main.a991bc90.css",
-    "main.js": "/lincs-work-term-report/static/js/main.65a1ae0e.js",
+    "main.js": "/lincs-work-term-report/static/js/main.edae8dde.js",
     "static/media/bg-body.png": "/lincs-work-term-report/static/media/bg-body.e7240c7f82e34bff8bec.png",
     "static/media/lincs-stacked-logo.png": "/lincs-work-term-report/static/media/lincs-stacked-logo.ee5e0e4a5fc023f6ac4a.png",
     "index.html": "/lincs-work-term-report/index.html",
     "main.a991bc90.css.map": "/lincs-work-term-report/static/css/main.a991bc90.css.map",
-    "main.65a1ae0e.js.map": "/lincs-work-term-report/static/js/main.65a1ae0e.js.map"
+    "main.edae8dde.js.map": "/lincs-work-term-report/static/js/main.edae8dde.js.map"
   },
   "entrypoints": [
     "static/css/main.a991bc90.css",
-    "static/js/main.65a1ae0e.js"
+    "static/js/main.edae8dde.js"
   ]
 }
