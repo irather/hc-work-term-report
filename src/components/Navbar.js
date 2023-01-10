@@ -28,6 +28,9 @@ function Navbar() {
               <a className="nav-link" aria-current="page" href="#intro">
                 Introduction
               </a>
+              <a className="nav-link" href="#employerInfo">
+                Employer Info
+              </a>
             </div>
           </div>
         </div>
