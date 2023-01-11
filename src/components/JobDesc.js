@@ -38,7 +38,11 @@ function JobDesc() {
         mainly React and CSS, and one new tool I had to learn was a CMS called
         Docusaurus, which is what I used to host the site on. The full site can
         also be viewed here,{" "}
-        <a target="_blank" href="https://portal.lincsproject.ca/">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://portal.lincsproject.ca/"
+        >
           https://portal.lincsproject.ca/
         </a>
         !

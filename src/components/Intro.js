@@ -12,7 +12,11 @@ function Intro() {
         Networked Cultural Scholarship, also known as LINCS. Between May 2022
         and December 2022, I had the opportunity to create and design my first
         large-scale website, which can be found at{" "}
-        <a target="_blank" href="https://portal.lincsproject.ca/">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://portal.lincsproject.ca/"
+        >
           https://portal.lincsproject.ca/
         </a>
         . Below I will discuss more in detail the goals I achieved while working
