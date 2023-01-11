@@ -10,9 +10,9 @@ function Goals() {
         to understand the overall scope of a problem by learning to take
         different approaches to solving the problem before tackling it, such as
         brainstorming potential solutions and not just guessing and checking.
-        The second main goal was to learn how to break down tasks into more
-        subtasks before tackling a big problem. The third main goal was to learn
-        new React skills during the job.
+        The second main goal was to learn how to break down a big problem into
+        subtasks before tackling it. The third main goal was to learn new React
+        skills during the job.
       </p>
 
       <details>
