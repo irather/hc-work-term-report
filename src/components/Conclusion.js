@@ -11,7 +11,7 @@ function Conclusion() {
         huge amount on my React and CSS skills. I also learned a lot from a
         behavourial stand point, being able to improve immensely on my problem
         solving skills. In the end, I am very grateful to LINCS for providing me
-        with this opportunity and thankful I was able to make meaningul
+        with this opportunity and thankful I was able to make meaningful
         contributions for them!
       </p>
     </div>

@@ -12,7 +12,8 @@ function Goals() {
         brainstorming potential solutions and not just guessing and checking.
         The second main goal was to learn how to break down a big problem into
         subtasks before tackling it. The third main goal was to learn new React
-        skills during the job.
+        skills during the job. Below, you will find more detail about each goal,
+        how I accomplished it, and how I improved afterwards.
       </p>
 
       <details>
