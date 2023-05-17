@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lincs-work-term-report/static/css/main.a991bc90.css",
-    "main.js": "/lincs-work-term-report/static/js/main.18b46a54.js",
-    "static/media/bg-body.png": "/lincs-work-term-report/static/media/bg-body.e7240c7f82e34bff8bec.png",
-    "static/media/lincs-stacked-logo.png": "/lincs-work-term-report/static/media/lincs-stacked-logo.ee5e0e4a5fc023f6ac4a.png",
-    "index.html": "/lincs-work-term-report/index.html",
-    "main.a991bc90.css.map": "/lincs-work-term-report/static/css/main.a991bc90.css.map",
-    "main.18b46a54.js.map": "/lincs-work-term-report/static/js/main.18b46a54.js.map"
+    "main.css": "/hc-work-term-report/static/css/main.6c04d010.css",
+    "main.js": "/hc-work-term-report/static/js/main.5d3ebe35.js",
+    "static/media/bg-body.png": "/hc-work-term-report/static/media/bg-body.e7240c7f82e34bff8bec.png",
+    "static/media/lincs-stacked-logo.png": "/hc-work-term-report/static/media/lincs-stacked-logo.ee5e0e4a5fc023f6ac4a.png",
+    "index.html": "/hc-work-term-report/index.html",
+    "main.6c04d010.css.map": "/hc-work-term-report/static/css/main.6c04d010.css.map",
+    "main.5d3ebe35.js.map": "/hc-work-term-report/static/js/main.5d3ebe35.js.map"
   },
   "entrypoints": [
-    "static/css/main.a991bc90.css",
-    "static/js/main.18b46a54.js"
+    "static/css/main.6c04d010.css",
+    "static/js/main.5d3ebe35.js"
   ]
 }
