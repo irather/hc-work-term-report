@@ -1,7 +1,7 @@
 {
   "name": "lincs-work-term-report",
   "version": "0.1.0",
-  "homepage": "https://irather.github.io/lincs-work-term-report",
+  "homepage": "https://irather.github.io/hc-work-term-report",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -6,7 +6,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="#header">
-            LINCS Work Term Report
+            Health Canada Work Term Report
           </a>
           <button
             className="navbar-toggler"
