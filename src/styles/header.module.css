@@ -2,10 +2,10 @@
     display: flex;
     align-items: center;
     background-color: inherit;
-    background-image: url("/src/images/bg-body.png");
+    /*background-image: url("/src/images/bg-body.png");
     background-repeat: repeat-x;
     background-position:fixed; 
-    background-size: cover; 
+    background-size: cover; */
 }
 
 .headerContainer>h1 {
