@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hc-work-term-report/static/css/main.5b35640d.css",
-    "main.js": "/hc-work-term-report/static/js/main.e444ea02.js",
+    "main.js": "/hc-work-term-report/static/js/main.0ae4c964.js",
     "static/media/hc-logo.png": "/hc-work-term-report/static/media/hc-logo.66f98458a60f7b6796ca.png",
     "index.html": "/hc-work-term-report/index.html",
     "main.5b35640d.css.map": "/hc-work-term-report/static/css/main.5b35640d.css.map",
-    "main.e444ea02.js.map": "/hc-work-term-report/static/js/main.e444ea02.js.map"
+    "main.0ae4c964.js.map": "/hc-work-term-report/static/js/main.0ae4c964.js.map"
   },
   "entrypoints": [
     "static/css/main.5b35640d.css",
-    "static/js/main.e444ea02.js"
+    "static/js/main.0ae4c964.js"
   ]
 }
